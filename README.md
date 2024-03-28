@@ -1,7 +1,9 @@
 ### 👋 Hi, I’m [@malikalrizky](https://github.com/malikalrizky)
 👀 I’m interested in Cloud Security and DevOps Engineering <br>
 👨‍💻 I’m currently working as DevSecOps Engineer at Grab <br>
-📫 How to reach me malikalrizkya@gmail.com <br>
+📫 How to reach me contact@malikalrizky.com <br>
+
+### Language and Tools:
 
 **Back-end**
 
