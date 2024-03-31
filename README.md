@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m [@malikalrizky](https://github.com/malikalrizky)
-👀 I’m interested in Cloud Security and DevOps Engineering <br>
+<p align="center"> 👀 I’m interested in Cloud Security and DevOps Engineering <br>
 👨‍💻 I’m currently working as DevSecOps Engineer at Grab <br>
 📫 How to reach me contact@malikalrizky.com <br>
 
@@ -38,6 +38,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/atom.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
+
+</p>
 
 [![malikalrizky's github stats](https://github-readme-stats.vercel.app/api?username=malikalrizky&show_icons=true&theme=merko)](https://github.com/malikalrizky)
 
