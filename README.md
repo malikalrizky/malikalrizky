@@ -1,8 +1,7 @@
-### 👋 Hi, I’m [@malikalrizky](https://github.com/malikalrizky)
+# 👋 Hi, I’m [@malikalrizky](https://github.com/malikalrizky)
+### 📫 How to reach me [contact@malikalrizky.com](mailto:contact@malikalrizky.com) and connect with me on [linkedin](https://linkedin.com/in/mrizkyabdillah)
 <p align="center"> <b>👀 I’m interested in Cloud Security and DevOps Engineering </b><br>
 <b>👨‍💻 I’m currently working as DevSecOps Engineer at Grab </b><br>
-📫 How to reach me [contact@malikalrizky.com](mailto:contact@malikalrizky.com)<br>
-👀 Connect with me on [linkedin](https://linkedin.com/in/mrizkyabdillah)<br>
 
 <b>Language and Tools: </b> <br>
 
