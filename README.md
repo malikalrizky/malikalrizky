@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m [@malikalrizky](https://github.com/malikalrizky)
-<p align="center"> 👀 I’m interested in Cloud Security and DevOps Engineering <br>
-👨‍💻 I’m currently working as DevSecOps Engineer at Grab <br>
-📫 How to reach me contact@malikalrizky.com <br>
+<p align="center"> <b>👀 I’m interested in Cloud Security and DevOps Engineering </b><br>
+<b>👨‍💻 I’m currently working as DevSecOps Engineer at Grab </b><br>
+<b>📫 How to reach me contact@malikalrizky.com </b><br>
 
 <b>Language and Tools: </b> <br>
 
