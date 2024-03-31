@@ -3,41 +3,41 @@
 👨‍💻 I’m currently working as DevSecOps Engineer at Grab <br>
 📫 How to reach me contact@malikalrizky.com <br>
 
-### Language and Tools:
+**Language and Tools:** <br>
 
-**Back-end**
+**Back-end**<br>
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/rails.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/go.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/elixir.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/elixir.png"></code> <br>
 
-**Front-end**
+**Front-end** <br>
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code> <br>
 
-**Databases**
+**Databases** <br>
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/mysql.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/redis.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/redis.png"></code> <br>
 
-**Cloud Servers**
+**Cloud Servers** <br>
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/aws.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/gcloud.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/DigitalOcean.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/DigitalOcean.png"></code> <br>
 
-**Tools**
+**Tools** <br>
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/atom.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code> <br>
 
 </p>
 
